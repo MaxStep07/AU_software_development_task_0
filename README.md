@@ -18,7 +18,7 @@
 
 В ходе лабораторной работы был написан скрипт, выполняющий построение и вывод треугольника Паскаля:
 
-```
+```python
 def print_pascal_triangle(triangle):
     '''
     Выводит треугольник Паскаля
@@ -54,21 +54,21 @@ print_pascal_triangle(triangle_of_Pascal)
 
 1.  Склонируйте репозиторий:
     
-    ```
+    ```powershell
     git clone https://github.com/MaxStep07/AU_software_development_task_0.git
     
     ```
     
 2.  Перейдите в папку проекта:
     
-    ```
+    ```powershell
     cd AU_software_development_task_0
     
     ```
     
 3.  Запустите скрипт:
     
-    ```
+    ```powershell
     python main.py
     
     ```
