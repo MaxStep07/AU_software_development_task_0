@@ -1,0 +1,7 @@
+
+    Каталог: C:\AU_2026\task_0\projects_cmd\task_01_3\GenomicData
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          15.09.2026    19:02              0 sequencing_backup.log
+

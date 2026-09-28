@@ -1,0 +1,12 @@
+
+   Destination: google.com
+
+Ping Source           Address                   Latency BufferSize Status
+                                                   (ms)        (B)
+---- ------           -------                   ------- ---------- ------
+   1 DESKTOP-F8J8S0S  173.194.221.138                12         32 Success
+   2 DESKTOP-F8J8S0S  173.194.221.138                 7         32 Success
+   3 DESKTOP-F8J8S0S  173.194.221.138                11         32 Success
+   4 DESKTOP-F8J8S0S  173.194.221.138                 8         32 Success
+   5 DESKTOP-F8J8S0S  173.194.221.138                 7         32 Success
+
